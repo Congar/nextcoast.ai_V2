@@ -1,0 +1,18 @@
+{
+  "de": {
+    "home": "Startseite",
+    "about_us": "Über uns",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt",
+    "header_slogan": "Ihr Partner für digitale Transformation",
+    "about_text": "Wir helfen Unternehmen, Prozesse zu automatisieren und zu optimieren."
+  },
+  "en": {
+    "home": "Home",
+    "about_us": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "header_slogan": "Your partner for digital transformation",
+    "about_text": "We help businesses automate and optimize their processes."
+  }
+}
